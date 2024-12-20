@@ -1,0 +1,57 @@
+
+h1{
+  color: #377E5F
+}
+
+.overlay{
+  height: 500px;
+  padding: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  background-color: honeydew;
+}
+.overlay h1{
+  padding-top: 75px;
+}
+.overlay p{
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.skincontain{
+  margin-left: 175px;
+}
+.quiz img{
+  float: left;
+  object-fit: cover;
+  width: 230px;
+  height: 200px;
+  margin-right: 10%;
+}
+.quiz p{
+  box-sizing:content-box;
+  margin-right: 25%;
+  margin-bottom: 110px;
+
+}
+.quiz.button{
+  float: right;
+}
+.expert{
+  margin-top: 30px;
+  float: left;
+}
+.expert img{
+  float: left;
+  object-fit: cover;
+  width: 230px;
+  height: 200px;
+  margin-right: 10%;
+  margin-bottom: 100px;
+}
+.expert p{
+  margin-right: 25%;
+  margin-bottom: 110px;
+}
